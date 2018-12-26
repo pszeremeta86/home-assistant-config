@@ -26,15 +26,16 @@
 ## Switches
 
 * Sonoff Basic Switches [[Tasmota firmware](https://github.com/arendst/Sonoff-Tasmota)]
+* Sonoff T1 EU [[Tasmota firmware](https://github.com/arendst/Sonoff-Tasmota)]
+* Sonoff S20 [[Tasmota firmware](https://github.com/arendst/Sonoff-Tasmota)]
 * [Shelly1](https://shelly.cloud/shelly1-open-source/)
 * [Shelly2](https://shelly.cloud/shelly2/)
-* Sonoff T1 EU
-* NodeMCU + Relay + PIR (Smart Garage)
+* NodeMCU + Relay
 
 ## Sensors
 
 * Wemos D1 mini + DS18B20 [[Tasmota firmware](https://github.com/arendst/Sonoff-Tasmota)]
-* NodeMCU + Relay + PIR
+* NodeMCU + PIR
 
 ## Other Integrated Devices
 
@@ -45,4 +46,4 @@
 * Washing Machine
 
 ## Screenshots
-Soon...
+
