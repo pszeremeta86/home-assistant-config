@@ -28,7 +28,7 @@
 * [Shelly1](https://shelly.cloud/shelly1-open-source/)
 * [Shelly2](https://shelly.cloud/shelly2/)
 * Sonoff T1 EU
-* NodeMCU + Relay + PIR (Smart Garage)
+* NodeMCU + Relay + PIR
 
 ## Sensors
 
@@ -39,7 +39,6 @@
 
 * TP-Link Archer C50
 * BroadLink RM mini 3
-* PlayStation 3
 
 ## Screenshots
 
