@@ -44,6 +44,7 @@
 * PlayStation 3
 * Dishwasher
 * Washing Machine
+* Christmas Tree
 
 ## Screenshots
 
