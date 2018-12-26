@@ -6,7 +6,7 @@
 
 * Raspberry Pi 3 B+ [Hass.io]
 
-## Control
+## Controls
 
 * iPhone 7 [[Home Assistant Companion](https://itunes.apple.com/us/app/home-assistant-companion/id1099568401)]
 * Google Home [[Home Assistant Cloud](https://www.home-assistant.io/cloud)]
@@ -25,7 +25,7 @@
 
 ## Switches
 
-* Sonoff Basic Switches [[Tasmota firmware](https://github.com/arendst/Sonoff-Tasmota)]
+* Sonoff Basic [[Tasmota firmware](https://github.com/arendst/Sonoff-Tasmota)]
 * Sonoff T1 EU [[Tasmota firmware](https://github.com/arendst/Sonoff-Tasmota)]
 * Sonoff S20 [[Tasmota firmware](https://github.com/arendst/Sonoff-Tasmota)]
 * [Shelly1](https://shelly.cloud/shelly1-open-source/)
