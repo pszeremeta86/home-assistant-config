@@ -17,6 +17,7 @@
 * Aeotec ZW096 Smart Switch 6
 * FIBARO System FGWPE/F Wall Plug
 * FIBARO System FGMS001-ZW5 Motion Sensor
+* Neo Z-wave Door/Window Sensor
 
 ## Lights
 
@@ -28,7 +29,7 @@
 * [Shelly1](https://shelly.cloud/shelly1-open-source/)
 * [Shelly2](https://shelly.cloud/shelly2/)
 * Sonoff T1 EU
-* NodeMCU + Relay + PIR
+* NodeMCU + Relay + PIR (Smart Garage)
 
 ## Sensors
 
@@ -39,6 +40,9 @@
 
 * TP-Link Archer C50
 * BroadLink RM mini 3
+* PlayStation 3
+* Dishwasher
+* Washing Machine
 
 ## Screenshots
-
+Soon...
